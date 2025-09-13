@@ -38,3 +38,9 @@ Prepare datasets into the following structure and set their path in train.py and
     
 ## Change Detection Results
 ![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/comparison.png)
+
+## Visualization
+![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/sysu.png)
+![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/clcd.png)
+![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/whu.png)
+![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/levir.png)
