@@ -35,7 +35,10 @@ Prepare datasets into the following structure and set their path in train.py and
     -torchvision 0.15.2  
     -python 3.10.9  
     -Cuda 11.7    
-    
+
+## Test our trained model result
+You can directly test our model by our provided S2ENet weights. Download in [Baidu Disk](https://pan.baidu.com/s/1X6a2HmSAQhDV9A_JhtxKpg),pwd:vnm3
+
 ## Change Detection Results
 ![](https://github.com/ahaha-16/S2ENet/blob/main/change%20detection%20results/comparison.png)
 
